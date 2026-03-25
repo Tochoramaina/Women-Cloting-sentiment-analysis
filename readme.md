@@ -1,4 +1,6 @@
-##Women's Clothing E-commerce: Sentiment prediction and Topic Modelling
+##Women's Clothing E-commerce
+
+Sentiment prediction and Topic Modelling
 In this repository i implement a dual-stage naural language processing (NLP) pipeline to decode a customer review on a cloth. I combined Bidirectional LSTM and topic extraction to transform raw text into structured, actionable business intelligence 
 
 ##Pipeline Artchitecture 
