@@ -6,7 +6,6 @@ In this repository, I implement a dual-stage natural language processing (NLP) p
 ## Pipeline Artchitecture 
 ### stage 1
 It invloves analysis, visualisation and prediction of customer reviews on women  clothing.
-## Women's Clothing E-commerce
 
 ## Sentiment prediction and Topic Modelling
 
