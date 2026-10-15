@@ -87,7 +87,6 @@ def extract_lda_topics(text:str):
         })
     return formatted_topics
 
- 
 class ReviewRequest(BaseModel):
     text: str 
 
